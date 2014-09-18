@@ -45,7 +45,9 @@ Login.prototype.logout = function(sessionId) {
    /*
 	* TODO: Remove the given sessionId from the sessionMap
 	*/
+	delete this.sessionMap[sessionId];
 };
+
 
 // Export the Login class
 module.exports = new Login();

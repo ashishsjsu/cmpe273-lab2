@@ -18,7 +18,7 @@
     "nodejs",
     "connect"
   ],
-  "author": "Ashish Narkhede",
+  "author": "Sithu Aung",
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/sithu/cmpe273-lab2/issues"
